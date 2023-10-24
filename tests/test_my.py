@@ -1,4 +1,4 @@
-from hello_aaingyunii_pr.my import pic
+from dj_weather_show.my import pic
 
 def test_pic():
     pic()

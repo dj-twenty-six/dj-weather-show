@@ -1,9 +1,7 @@
-# hello-aaingyunii_pr `1.1.0`
+# dj-weather-show
+only tell you the weather in Dongjak-gu
 
-- The Python program I'm distributing for the first time
-
-View at:
-
+Thank you very much. It started with the following.
 - https://pypi.org/project/hello-aaingyunii_pr
 
 ### INSTALL
