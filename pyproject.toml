@@ -1,9 +1,9 @@
 [project]
-name = "hello-aaingyunii_pr"
-version = "1.1.0"
-description = "The Python program I'm distributing for the first time"
+name = "dj-weather-show"
+version = "2.0.0"
+description = "only tell you the weather in Dongjak-gu"
 authors = [
-    {name = "aaingyunii", email = "dlsrbs98@gmail.com"},
+    {name = "pysatellite", email = "pysatellite@gmail.com"},
 ]
 dependencies = [
     "requests>=2.31.0",
@@ -25,9 +25,9 @@ test = [
 
 
 [project.scripts]
-hello-aaingyunii-pic = 'hello_aaingyunii_pr.my:pic'
-hello-aaingyunii-who = 'hello_aaingyunii_pr.who:my_name'
-ha-weather = 'hello_aaingyunii_pr.weather_show:weather_show'
+hello-aaingyunii-pic = 'dj_weather_show.my:pic'
+hello-aaingyunii-who = 'dj_weather_show.who:my_name'
+ha-weather = 'dj_weather_show.weather_show:weather_show'
 
 [project.urls]
 "Homepage" = "https://github.com/aaingyunii/hello-aaingyunii_pr"
